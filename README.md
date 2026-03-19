@@ -31,3 +31,4 @@ Tools Used
 ​Author
 ​Zerihun Dagne (Zero) Software Developer GitHub Profile: zerihundagne880-bot
 Email: zerihundagne880@gmail.com
+Update for Thursday
