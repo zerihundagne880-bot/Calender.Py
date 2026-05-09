@@ -32,3 +32,17 @@ Tools Used
 ​Zerihun Dagne (Zero) Software Developer GitHub Profile: zerihundagne880-bot
 Email: zerihundagne880@gmail.com
 Update for Thursday
+# Simple BBC News Scraper
+
+A lightweight Python script that scrapes the latest headlines from the BBC News homepage using `BeautifulSoup`.
+
+## 🚀 Features
+- Fetches real-time headlines.
+- Handles network errors gracefully.
+- Uses custom headers to avoid bot detection.
+
+## 🛠️ Requirements
+You will need the `requests` and `beautifulsoup4` libraries.
+```bash
+pip install requests beautifulsoup4
+
